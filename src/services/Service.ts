@@ -1,5 +1,6 @@
 import axios from "axios";
 
+
 /**
  * Criamos uma instância da Biblioteca Axios, chamada api, através 
  * do método create(). Dentro do método, definimos um objeto de 
@@ -13,7 +14,6 @@ import axios from "axios";
  * 
  *  **Exemplo**: 'https://blogpessoal.onrender.com/postagens'
  * 
- * onde:
  * 
  * - https://blogpessoal.onrender.com é o prefixo (Endereço do Deploy)
  * 
